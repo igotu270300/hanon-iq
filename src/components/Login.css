@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans:400,700);
+
+body {
+  background-color: rgb(40, 40, 40);
+  padding: 0;
+}
+
+.header-login {
+  background-color: rgb(180, 130, 0);
+  color: rgba(0, 0, 0, 0.6);
+  padding: 10px;
+  text-align: center;
+  margin: 0;
+  border-bottom: 10px solid rgba(0, 0, 0, 0.2);
+}
+.form-login {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  color: inherit;
+}
+.username-login,
+.password-login {
+  width: 200px;
+  height: 30px;
+  margin-bottom: 20px;
+  font-size: 1.2rem;
+}
+.button-login {
+  width: 150px;
+  height: 30px;
+  margin-bottom: 20px;
+  font-size: 1.2rem;
+}
