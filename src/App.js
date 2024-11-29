@@ -5,7 +5,7 @@ import Dashboard from "./components/Dashboard";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/hanon-iq">
       <Routes>
         <Route path="/" element={<Login />} />
         <Route path="/dashboard" element={<Dashboard />} />
