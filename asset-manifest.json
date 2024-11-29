@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hanon-iq/static/css/main.b8e18a5b.css",
+    "main.js": "/hanon-iq/static/js/main.4a54b35b.js",
+    "static/js/453.5697658b.chunk.js": "/hanon-iq/static/js/453.5697658b.chunk.js",
+    "index.html": "/hanon-iq/index.html",
+    "main.b8e18a5b.css.map": "/hanon-iq/static/css/main.b8e18a5b.css.map",
+    "main.4a54b35b.js.map": "/hanon-iq/static/js/main.4a54b35b.js.map",
+    "453.5697658b.chunk.js.map": "/hanon-iq/static/js/453.5697658b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8e18a5b.css",
+    "static/js/main.4a54b35b.js"
+  ]
+}
